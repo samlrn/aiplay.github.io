@@ -1,0 +1,4 @@
+body { padding: 2rem; }
+.filters { gap: 1rem; margin-bottom: 1rem; }
+.dataTables_filter { display: none; }
+.table { font-size: 0.95rem; }
